@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa4vykmpec2cdrwl3gxeapb4qrshca6gtx3suqirutvujjibvtjjeq
+fingerprint=47:a1:cc:5e:c2:06:0d:cc:5b:fb:03:13:3a:e0:82:31
+tenancy=ocid1.tenancy.oc1..aaaaaaaaipimypziveb4mewtim2getrl2wwtqn66zeirswfdzkjamh4povpa
+region=ap-mumbai-1
+key_file=oci_private_key.pem
